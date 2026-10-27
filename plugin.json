@@ -1,0 +1,16 @@
+{
+  "id": "fabric_26_1_1_bypass",
+  "weight": 12,
+  "supportedversions": [
+    2026002,
+    202600299999
+  ],
+  "info": {
+    "name": "Fabric 26.1.1 Generator Bypass",
+    "version": "1.0.1",
+    "description": "Full Fabric generator for Minecraft 26.1.1.",
+    "author": "Your Name",
+    "credits": "Based on the MCreator Fabric generator",
+    "updateJSONURL": ""
+  }
+}
